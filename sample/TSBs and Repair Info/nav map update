@@ -1,0 +1,242 @@
+T-SB-0133-14 Rev2 September 30, 2014 
+
+
+Premium HDD Navigation Map Update Process(AVN/AW-EMV) 
+
+Service 
+Category Audio/Visual/Telematics 
+
+Section Navigation/Multi Info Display Market USA 
+
+
+Applicability 
+
+YEAR(S) MODEL(S) ADDITIONAL INFORMATION 
+2013 � 2014 
+2012 � 2014 
+2015 
+2013 
+Avalon, Avalon HV, 
+Land Cruiser, Venza 
+Camry, Camry HV, 
+Prius, Prius PHV, Prius 
+V, RAV4 EV 
+Land Cruiser, Prius, 
+Prius PHV 
+Sequoia 
+
+REVISION NOTICE 
+
+September 16, 2016 Rev2: 
+
+� The Parts information section, and the Required Tools & Equipment section has been updated. 
+November 5, 2015 Rev1: 
+� Applicability has been updated to remove the 2015 model year Prius V and add 2015 modelyear Land Cruiser vehicles. 
+� The entire bulletin has been updated. 
+Any previous printed versions of this bulletin should be discarded. 
+SUPERSESSION NOTICE 
+
+The information contained in this bulletin supersedes SB No. T-SB-0007-13. 
+
+� Applicability has been updated to include 2014 model year Avalon HV and 2015 model yearPrius, Prius PHV, and Prius V vehicles. 
+� The Required Tools & Equipment, and Repair Procedure sections have been updated. 
+Service Bulletin No. T-SB-0007-13 is Obsolete and any printed versions should be discarded.
+Be sure to review the entire content of this bulletin before proceeding. 
+
+� 2016 Toyota Motor Sales, USA Page 1 of 9 
+
+
+T-SB-0133-14 Rev2 September 30, 2014 Page 2 of 9 
+Premium HDD Navigation Map Update Process (AVN/AW-EMV) 
+
+Introduction 
+
+Toyota models equipped with the Premium HDD Navigation (AVN/AW-EMV) System require aSpecial Service Tool (SST) USB drive to update the map, points of interest, Gracenote�, and system 
+software. The SST is used with all vehicles to deliver the update, however a unique ActivationNumber is required for each vehicle. Activation Numbers are provided in an Activation Card Number 
+(ACN) pamphlet available through the normal parts ordering system. Use the process described inthis bulletin to perform the update. 
+
+NOTE 
+
+� Gracenote� information must be updated at the same time as Map Data. This data is includedon the Map Data SST. 
+� Map data will be released annually through the shipment of a USB Drive SST to each dealer.
+The SST must be stored in the SST cabinet to ensure it can be easily found. 
+Parts Information 
+
+PART NUMBER PART NAME QTY 
+86271-HDD07-16 ACN NAV UPDTE V.16.1 (Pamphlet) 1 
+
+NOTE 
+
+Pamphlet is blue, with Toyota and Denso labels on the front cover. 
+
+
+Warranty Information 
+
+OP CODE DESCRIPTION TIME OFP T1 T2 
+N/A Not Applicable to Warranty � � � � 
+
+Required Tools & Equipment 
+
+SPECIAL SERVICE TOOLS (SST) PART NUMBER QTY 
+USB Drive Navigation Map Update -Denso* TOYD-HDD07-16 1 
+
+* Essential SST. 
+NOTE 
+
+Additional SSTs may be ordered by calling 1-800-933-8335. 
+
+� 2016 Toyota Motor Sales, USA 
+
+
+T-SB-0133-14 Rev2 September 30, 2014 Page 3 of 9 
+Premium HDD Navigation Map Update Process (AVN/AW-EMV) 
+
+On-vehicle Data Navigation Update 
+
+1. Update Gracenote� information using Service Bulletin T-SB-0108-15, �Premium HDD Navigation 
+Gracenote Database Update.� 
+HINT 
+
+Connect a battery charger to the vehicle prior to beginning the process to ensure constantbattery voltage. 
+
+2. Log into TIS. 
+3. Log into Navigation Update Wizard. Figure 1. 
+A. Click on the TIS tab. 
+B. Click on the Diagnostics tab. 
+C. Click on the Navigation tab. 
+D. Re-enter your password. 
+E. Click Login. 
+4. Select Denso from the Select Navigation 
+Manufacturer dropdown. 
+5. Enter the Activation Card Number from the inside 
+of the pamphlet (obtained from parts department). 
+Figure 2. 
+
+
+Figure 3. 
+
+
+6. Click Submit. 
+� 2016 Toyota Motor Sales, USA 
+
+
+T-SB-0133-14 Rev2 September 30, 2014 Page 4 of 9 
+Premium HDD Navigation Map Update Process (AVN/AW-EMV) 
+
+On-vehicle Data Navigation Update (Continued) 
+
+7. Cycle the ignition ON (Engine/Hybrid/EV system OFF). 
+NOTE 
+
+� Vehicles WITHOUT Smart Key system: Turn the ignition key to the �ON� position. 
+� Vehicles WITH Smart Key system: Press the �ENGINE START STOP� switch two times withthe brake pedal released. 
+8. Press the INFO APPS button on the navigation Figure 4. 
+head unit. 
+9. Select Map Data on the navigation screen. Figure 5. 
+� 2016 Toyota Motor Sales, USA 
+
+
+T-SB-0133-14 Rev2 September 30, 2014 Page 5 of 9 
+Premium HDD Navigation Map Update Process (AVN/AW-EMV) 
+
+On-vehicle Data Navigation Update (Continued) 
+
+10. Record the Map Version and Map Update ID from Figure 6. 
+the navigation screen. 
+11. Enter navigation data into the Navigation Update 
+Wizard form. 
+A. Select the correct USB part number (found onthe SST packaging, starts with �TOYD�). 
+B. Input the Map Update ID into TIS 
+(without hyphens). 
+C. Input the Map Version into TIS. 
+D. Enter the VIN. 
+E. Enter the Repair Order Number. 
+F. Click Submit. 
+12. Check off each item after confirming that it isFigure 8. 
+correct. If any of the information is incorrect, click 
+the Back button. 
+13. Click Confirm. 
+Figure 7. 
+
+
+� 2016 Toyota Motor Sales, USA 
+
+
+T-SB-0133-14 Rev2 September 30, 2014 Page 6 of 9 
+Premium HDD Navigation Map Update Process (AVN/AW-EMV) 
+
+On-vehicle Data Navigation Update (Continued) 
+
+14. Note the License Key that was generated. Figure 9. 
+(Print this page if necessary.) 
+15. Insert the USB Drive SST into the USB port of the vehicle (usually located under the navigationhead unit, in the center console/armrest, or glove box). 
+16. Select Update Map on the navigation screen. 
+Figure 10. 
+17. Select Yes. Figure 11. 
+� 2016 Toyota Motor Sales, USA 
+
+
+T-SB-0133-14 Rev2 September 30, 2014 Page 7 of 9 
+Premium HDD Navigation Map Update Process (AVN/AW-EMV) 
+
+On-vehicle Data Navigation Update (Continued) 
+
+18. Enter the License Key from step 14. Figure 12. 
+19. Select OK. 
+20. Update navigation head unit software. Select Yes Figure 13. 
+on the Software Update screen to accept and 
+begin this update. 
+If the head unit displays the Map Update screen, 
+go to step 21. 
+
+NOTE 
+
+Navigation Map Data will be loaded when thisprocess completes. 
+
+
+Figure 14. 
+
+
+� 2016 Toyota Motor Sales, USA 
+
+
+T-SB-0133-14 Rev2 September 30, 2014 Page 8 of 9 
+Premium HDD Navigation Map Update Process (AVN/AW-EMV) 
+
+On-vehicle Data Navigation Update (Continued) 
+
+A. Cycle ignition OFF, then ON (Ready Figure 15. 
+OFF/Engine OFF). 
+B. Allow update to complete (approximately10 minutes). 
+Figure 16. 
+
+
+C. The head unit will prompt to cycle ignition. Cycle ignition OFF and then ON (Ready 
+OFF/Engine OFF). 
+D. Press the INFO APPS button. Figure 17. 
+E. Select Map Data on the navigation screen. 
+� 2016 Toyota Motor Sales, USA 
+
+
+T-SB-0133-14 Rev2 September 30, 2014 Page 9 of 9 
+Premium HDD Navigation Map Update Process (AVN/AW-EMV) 
+
+On-vehicle Data Navigation Update (Continued) 
+
+21. The Navigation Map Update will begin Figure 18. 
+automatically. 
+NOTE 
+
+This process will take about 45 minutes. 
+
+Figure 19. 
+
+
+22. The new map data will be available after you cyclethe ignition. Cycle ignition OFF, then ON (Ready 
+OFF/Engine OFF). 
+23. Remove the USB Drive SST from the vehicle to complete the Map Update. 
+24. Map Update is complete. Figure 20. 
+25. Verify navigation operation. 
+� 2016 Toyota Motor Sales, USA 
+
+

@@ -1,0 +1,342 @@
+T-SB-0034-14 Rev2 April 30, 2014 
+
+Torque Converter Flex Lock-up Shudder
+
+Service
+
+Category Drivetrain
+
+Section Automatic Transmission/Transaxle Market USA
+
+Applicability
+
+YEAR(S) MODEL(S) ADDITIONAL INFORMATION
+2012 ? 2014 Camry VDS(s): BF1FK 
+
+REVISION NOTICE
+April 23, 2015 Rev2: 
+? The Parts Information and Calibration Information sections have been updated. 
+
+September 25, 2014 Rev1:
+? The Production Change Information section has been added. 
+? The Warranty Information, Parts Information, Tools & Equipment, and Repair Procedure 
+sections have been updated. 
+Any previous printed versions of this bulletin should be discarded. 
+
+SUPERSESSION NOTICE
+The information contained in this bulletin supersedes SB No. T-SB-0086-12. 
+? Applicability has been updated to include 2013 ? 2014 model year Camry vehicles. 
+? The entire bulletin has been updated. 
+Service Bulletin No. T-SB-0086-12 is Obsolete and any printed versions should be discarded. 
+Be sure to review the entire content of this bulletin before proceeding. 
+Introduction
+Some 2012 ? 2014 Camry vehicles with a U760 transmission may exhibit a brief shudder 
+intermittently while driving under light loads between approximately 25 and 50 mph. The torque 
+converter and Engine Control Module/ECM (SAE term: Powertrain Control Module/PCM) logic 
+have been modified to reduce the possibility of this condition occurring. Please follow the Repair 
+Procedure below to address this condition. 
+? 2015 Toyota Motor Sales, USA Page 1 of 9
+
+
+T-SB-0034-14 Rev2 April 30, 2014 Page 2 of 9
+
+Torque Converter Flex Lock-up Shudder
+
+Production Change Information
+This bulletin applies to vehicles produced BEFORE the Production Change Effective VINs 
+shown below. 
+
+MODEL PLANT LINE DRIVETRAIN PRODUCTION CHANGE EFFECTIVE VIN
+1 4T1BF1FK#EU435094 
+TMMK 
+Camry 2 4T1BF1FK#EU841977 
+SIA ? 
+U760E 
+4T4BF1FK#ER425173 
+
+Warranty Information
+OP CODE DESCRIPTION TIME OFP T1 T2 
+TC1403 R & R Torque Converter Clutch and 
+Reprogram ECM (PCM) Engine 5.6
+32000-06040 
+32000-06050 
+32000-33141 
+32000-73011 
+9B 50 
+
+APPLICABLE WARRANTY
+? This repair is covered under the Toyota Powertrain Warranty. This warranty is in effect for 
+60 months or 60,000 miles, whichever occurs first, from the vehicle?s in-service date. 
+? Warranty application is limited to occurrence of the specified condition described in 
+this bulletin. 
+
+Parts Information
+PART NUMBER 
+PREVIOUS NEW 
+PART NAME QTY 
+32000-06040 
+32000-06050 
+32000-33141 
+32000-73011 
+04004-48106 Converter Assy Kit, Torque 1 
+00289-ATFWS ATF WS 5.6 US qts. 
+(5.3 liters) 
+? 2015 Toyota Motor Sales, USA
+
+T-SB-0034-14 Rev2 April 30, 2014 Page 3 of 9 
+Torque Converter Flex Lock-up Shudder 
+Parts Information (Continued) 
+EMISSION PART NUMBER 
+SPEC GRADE 
+PREVIOUS NEW 
+
+PART NAME QTY
+Base, LE, 
+XLE 
+89661-06K60 
+89661-06K61 
+89661-06K62 
+89661-06K63 
+89661-06K64 
+89661-06K65 ? 
+
+ULEV
+SE 
+89661-06K70 
+89661-06K71 
+89661-06K72 
+89661-06K73 
+89661-06K74 
+89661-06K75 ? 
+
+Base, LE,
+XLE 
+89661-06K80 
+89661-06K81 
+89661-06K82 
+89661-06K83 
+89661-06K84 
+89661-06K85 ? 
+
+PZEV
+SE 
+89661-06K90 
+89661-06K91 
+89661-06K92 
+89661-06K93 
+89661-06K94 
+89661-06K95 
+Computer, Engine Control 
+(ECM/PCM) 
+
+All All 00451-00001-LBL Authorized Modification Labels 1 
+NOTE 
+ The ECM (PCM) should NOT be replaced as part of the repair procedure.
+ Authorized Modification Labels may be ordered in packages of 25 from the Materials
+Distribution Center (MDC) through Dealer Daily ? Dealer Support Materials Orders. 
+ 2015 Toyota Motor Sales, USA
+
+T-SB-0034-14 Rev2 April 30, 2014 Page 4 of 9 
+Torque Converter Flex Lock-up Shudder 
+Calibration Information 
+CALIBRATION ID 
+EMISSION SPEC GRADE ECM (CPU) 
+PREVIOUS NEW 
+
+Main
+30679000 
+30679100 
+30679200 
+30679300 
+30679400 
+ULEV 
+
+Sub
+50611000 
+50611100 
+50611200 
+50611300 
+50611400 
+30679500 / 50611500 
+
+Main
+30680000 
+30680100 
+30680200 
+30680300 
+30680400 
+PZEV 
+Base, LE, XLE 
+
+Sub
+50611000 
+50611100 
+50611200 
+50611300 
+50611400 
+30680500 / 50611500 
+
+Main
+306A3000 
+306A3100 
+306A3200 
+306A3300 
+306A3400 
+ULEV 
+
+Sub
+50612000 
+50612100 
+50612200 
+50612300 
+50612400 
+306A3500 / 50612500 
+
+Main
+306A4000 
+306A4100 
+306A4200 
+306A4300 
+306A4400 
+PZEV 
+SE 
+
+Sub
+50612000 
+50612100 
+50612200 
+50612300 
+50612400 
+306A4500 / 50612500 
+ 2015 Toyota Motor Sales, USA
+
+T-SB-0034-14 Rev2 April 30, 2014 Page 5 of 9 
+Torque Converter Flex Lock-up Shudder 
+Required Tools & Equipment
+REQUIRED EQUIPMENT SUPPLIER PART NUMBER QTY 
+Techstream 2.0* TS2UNIT 
+Techstream Lite 
+ADE 
+TSLITEPDLR01 
+
+NOTE 
+ Only ONE of the Techstream units listed above is required.
+ Software version 10.00.029 or later is required.
+ Additional Techstream units may be ordered by calling Approved Dealer
+Equipment (ADE) at 1-800-368-6787. 
+? The Diagnostic Tester is NOT recommended for flash reprogramming. 
+Please use Techstream or an approved J2534 interface to perform flash 
+reprogramming updates. Visit techinfo.toyota.com for more information 
+regarding J2534 reprogramming. 
+SPECIAL SERVICE TOOLS (SST) PART NUMBER QTY 
+GR8 Battery Diagnostic Station* 00002-MCGR8 1 
+Transmission Fill System* 00002-11100-02 1 
+NOTE 
+Additional SSTs may be ordered by calling 1-800-933-8335. 
+* Essential SST. 
+ 2015 Toyota Motor Sales, USA
+
+T-SB-0034-14 Rev2 April 30, 2014 Page 6 of 9 
+Torque Converter Flex Lock-up Shudder 
+Repair Procedure 
+
+1. With the vehicle at operating temperature, confirm the condition described in the Introduction.
+Is there a brief shudder intermittently present while driving under a light load between 
+25 ? 50 mph? Typically, the condition will be most noticeable prior to an upshift. 
+? YES ? Continue to step 2. 
+? NO?This bulletin does NOT apply. Continue diagnosis using the applicable Repair Manual. 
+NOTICE 
+Be sure to follow the procedure below in the order provided to prevent contamination of 
+previously cleaned parts. 
+
+2. Drain the ATF from the transaxle by removing the drain plug.
+Refer to the Technical Information System (TIS), applicable model and model year 
+Repair Manual: 
+? 2012 / 2013 / 2014 Camry: 
+Drivetrain ? Automatic Transmission/Transaxle ? ?U760E Automatic Transmission/Transaxle: 
+Automatic Transaxle Fluid: Replacement? 
+
+3. Remove and replace the torque converter.
+NOTE 
+Refer to Service Bulletin T-SB-0351-10, ?Repair Manual Supplement: Transaxle Replacement.? 
+
+4. With the transaxle installed in the vehicle, remove the transaxle oil pan.
+Refer to TIS, applicable model and model year Repair Manual: 
+? 2012 / 2013 / 2014 Camry: 
+Drivetrain ? Automatic Transmission/Transaxle ? ?U760E Automatic Transmission/Transaxle: 
+Valve Body Assembly: Removal? 
+
+5. Remove and discard the 2 oil pan magnets and clean the inside of the oil pan by wiping it
+off with a clean cloth only. 
+NOTICE 
+Do NOT use any chemical cleaners to clean the inside of the oil pan. 
+? 2015 Toyota Motor Sales, USA
+
+T-SB-0034-14 Rev2 April 30, 2014 Page 7 of 9 
+Torque Converter Flex Lock-up Shudder 
+Repair Procedure (Continued) 
+
+6. Install 4 NEW magnets in the locations shown in
+Figure 1. 
+Figure 1. Magnet Installation Locations. 
+
+7. Reinstall the oil pan using a NEW oil pan gasket.
+Refer to TIS, applicable model and model year Repair Manual: 
+? 2012 / 2013 / 2014 Camry: 
+Drivetrain ? Automatic Transmission/Transaxle ? ?U760E Automatic Transmission/Transaxle: 
+Valve Body Assembly: Installation? 
+
+8. Reinstall the drain plug using a NEW drain plug gasket and refill the transaxle with ATF.
+Refer to TIS, applicable model and model year Repair Manual: 
+? 2012 / 2013 / 2014 Camry: 
+Drivetrain ? Automatic Transmission/Transaxle ? ?U760E Automatic Transmission/Transaxle: 
+Automatic Transaxle Fluid: Replacement? 
+ 2015 Toyota Motor Sales, USA
+
+T-SB-0034-14 Rev2 April 30, 2014 Page 8 of 9 
+Torque Converter Flex Lock-up Shudder 
+Repair Procedure (Continued) 
+
+9. Check for the Authorized Modifications Label affixed to the vehicle in the location shown in
+Figure 2 below. Confirm if the ECM (PCM) calibration has been updated. If the calibration ID 
+listed is NOT the latest ECM (PCM) calibration ? go to step 10. If the calibration ID is the 
+latest, go to step 12. 
+Figure 2. Location of Authorized Modifications Label on 2012 ? 2014 Camry 
+
+
+1 Replacement ECM (PCM) Part Number (i.e., 
+89661-06K64) 
+2 New Calibration ID(s) (i.e., 30679400 ) 
+3 Dealer Code 
+4 Date Completed 
+5 This SB Number 
+ 2015 Toyota Motor Sales, USA
+
+T-SB-0034-14 Rev2 April 30, 2014 Page 9 of 9 
+Torque Converter Flex Lock-up Shudder 
+Repair Procedure (Continued) 
+
+10. Flash reprogram the ECM (PCM).
+NOTE 
+? The GR8 Battery Diagnostic Station MUST be used in Power Supply Mode to maintain 
+battery voltage at 13.5 volts while flash reprogramming the vehicle. 
+? For details on how to use the GR8 Battery Diagnostic Station, refer to the 
+GR8 Instruction Manual located on the Technical Information System (TIS), 
+Diagnostics ? Tools & Equipment ? Battery Diagnostics. 
+Follow the procedures outlined in Service Bulletin No. T-SB-0012-13, ?Techstream ECU Flash 
+Reprogramming Procedure,? and flash the ECM (PCM) with the NEW calibration file update. 
+
+11. Install the Authorized Modifications Label.
+A. Using a permanent marker, enter the following information on the label: 
+? ECM part number [Refer to the Parts Information section for the NEW PART NUMBER] 
+? Calibration ID(s) [Refer to the Calibration Information section for the NEW 
+CALIBRATION ID] 
+? Dealer Code 
+? Repair Date 
+? Change Authority [This bulletin number] 
+B. Affix the Authorized Modifications Label to the vehicle at the location shown in Figure 2. The 
+Authorized Modifications Label is available through the MDC, P/N 00451-00001-LBL. 
+
+12. Perform the Techstream ECT Reset Memory Utility and test drive to confirm the repair.
+? 2015 Toyota Motor Sales, USA
+
